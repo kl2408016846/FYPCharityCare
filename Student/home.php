@@ -394,12 +394,7 @@ $result = $conn->query($query);
                         <li class="mb-3"><i class="fas fa-envelope me-3 text-danger"></i>pluscharitycare@gmail.com</li>
                         <li class="mb-3"><i class="fas fa-phone me-3 text-danger"></i>03-9206 9700</li>
                         <li class="mb-3"><i class="fas fa-map-marker-alt me-3 text-danger"></i> Universiti Poly-Tech Malaysia, Kuala Lumpur</li>
-                        <li class="mb-3">
-    <i class="fas fa-video me-3 text-danger"></i>
-    <a href="https://drive.google.com/file/d/1I8RcAi8CmcP1V6N7h8Q0Z-F6payvDOOZ/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-        Watch User Manual
-    </a>
-</li>
+                        <li class="mb-3"><i class="fas fa-video me-3 text-danger"></i><a href="https://youtu.be/_YKgA5cgadw" target="_blank" rel="noopener noreferrer">Watch User Manual</a></li>
                     </ul>
                 </div>
             </div>
